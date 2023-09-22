@@ -51,4 +51,3 @@
 
 ###
 ![Alt Text](gif.gif)
-![Sample GIF](gif.gif)
