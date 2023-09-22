@@ -50,4 +50,5 @@
 <h4 align="center">Greetings! I'm a dedicated full-stack web developer with a fervent passion for learning and delving into cutting-edge technologies. My forte lies in crafting seamless and dynamic web experiences that make a memorable impression.<br><br>I find immense satisfaction in tackling complex challenges and turning them into elegant, user-friendly solutions. With a keen eye for detail and a penchant for creativity, I strive to bring innovation to every project I undertake.<br><br>Let's embark on this journey of innovation and discovery together!</h4>
 
 ###
-
+![Alt Text](relative_path_to_gif)
+![Sample GIF](gif.gif)
