@@ -51,4 +51,3 @@
 
 ###
 
-![snake gif](https://github.com/argha7417/argha7417/blob/output/github-contribution-grid-snake.gif)
