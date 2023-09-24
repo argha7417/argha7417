@@ -3,7 +3,7 @@
 <img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
 ###
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=argha7417&label=Profile%20views&color=0e75b6&style=flat" alt="argha7417" /> </p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -49,3 +49,9 @@
 
 ###
 ![Alt Text](gif.gif)
+###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=argha7417&show_icons=true&locale=en&layout=compact" alt="argha7417" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=argha7417&show_icons=true&locale=en" alt="argha7417" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=argha7417&" alt="argha7417" /></p>
