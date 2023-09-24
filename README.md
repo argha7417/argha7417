@@ -59,14 +59,14 @@
 </p>
 
 
+###
+![Alt Text](gif.gif)
 
 
 ###
 
 <h3 align="center">Greetings! I'm a dedicated full-stack web developer with a fervent passion for learning and delving into cutting-edge technologies. My forte lies in crafting seamless and dynamic web experiences that make a memorable impression.<br><br>I find immense satisfaction in tackling complex challenges and turning them into elegant, user-friendly solutions. With a keen eye for detail and a penchant for creativity, I strive to bring innovation to every project I undertake.<br><br>Let's embark on this journey of innovation and discovery together!</h3>
 
-###
-![Alt Text](gif.gif)
 ###
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=argha7417&show_icons=true&locale=en&layout=compact" alt="argha7417" /></p>
 
