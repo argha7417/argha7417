@@ -5,7 +5,7 @@
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=argha7417&label=Profile%20views&color=0e75b6&style=flat" alt="argha7417" /> </p>
 <div align="left">
-  <h3 align="left">Languages and tools:</h3>
+  <h3 align="left">Languages and Tools:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
