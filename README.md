@@ -64,8 +64,10 @@
 
 ###
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=argha7417&show_icons=true&locale=en" alt="argha7417" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=argha7417&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=argha7417&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=argha7417&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=argha7417&show_icons=true&locale=en&layout=compact" alt="argha7417" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=argha7417&" alt="argha7417" /></p>
+###
