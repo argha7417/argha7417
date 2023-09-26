@@ -55,10 +55,10 @@
 <a href="https://www.instagram.com/argha_ghosh_143/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="argha7417" height="30" width="40" /></a>
 
 ###
-![Alt Text](gif.gif)
-
+<img src="https://raw.githubusercontent.com/argha7417/argha7417/output/snake.svg" alt="Snake animation" />
 
 ###
+
 
 <h3 align="center">Greetings! I'm a dedicated full-stack web developer with a fervent passion for learning and delving into cutting-edge technologies. My forte lies in crafting seamless and dynamic web experiences that make a memorable impression.<br><br>I find immense satisfaction in tackling complex challenges and turning them into elegant, user-friendly solutions. With a keen eye for detail and a penchant for creativity, I strive to bring innovation to every project I undertake.<br><br>Let's embark on this journey of innovation and discovery together!</h3>
 
