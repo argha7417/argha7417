@@ -50,7 +50,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/diyaa_g228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="argha7417" height="30" width="40" /></a>
+<a href="https://twitter.com/Argha7417" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="argha7417" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/argha-ghosh-94496a226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="argha7417" height="30" width="40" /></a>
 <a href="https://www.instagram.com/argha_ghosh_143/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="argha7417" height="30" width="40" /></a>
 
