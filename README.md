@@ -74,3 +74,6 @@
 </div>
 
 ###
+<h2 align="center">🤩 Feel free to connect with me on GitHub! Thanks for taking the time to visit my profile. Wishing you a fantastic day filled with happy coding and successful endeavors! 👩‍💻</h2>
+
+###
