@@ -5,7 +5,7 @@
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=argha7417&label=Profile%20views&color=0e75b6&style=flat" alt="argha7417" /> </p>
 <div align="left">
-  <h3 align="left">Languages and Tools:</h3>
+  <h3 align="left">Languages and Tools :</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -59,7 +59,7 @@
 
 ###
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://twitter.com/Argha7417" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="argha7417" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/argha-ghosh-94496a226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="argha7417" height="30" width="40" /></a>
@@ -70,7 +70,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me :</h3>
 
 ###
 
@@ -86,7 +86,7 @@
 
 ###
 <h2 align="center">🤩 Feel free to connect with me on GitHub! Thanks for taking the time to visit my profile. Wishing you a fantastic day filled with happy coding and successful endeavors! 👩‍💻</h2>
-<h3>Badges:</h3>
+<h3>Badges :</h3>
 
 [![An image of @argha_ghosh_143's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/argha_ghosh_143)](https://holopin.io/@argha_ghosh_143)
 ###
