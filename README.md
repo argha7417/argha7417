@@ -74,7 +74,7 @@
 
 ###
 
-<p align="left">I'm Argha Ghosh from Kolkata<br><br>- 🔭 I’m working as MERN stack web developer<br>- 📚 I'm currently learning Machine Learning 🦾<br>- ⚡ In my free time I love to explore different technologies</p>
+<p align="left">I'm ARGHA GHOSH from Kolkata<br><br>- 🔭 I’m working as MERN stack web developer<br>- 📚 I'm currently learning Machine Learning 🦾<br>- ⚡ In my free time I love to explore different technologies</p>
 
 ###
 
