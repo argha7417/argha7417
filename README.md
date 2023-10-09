@@ -96,3 +96,7 @@
 ###
 
 <h2 align="center">🤩 Feel free to connect with me on GitHub! Thanks for taking the time to visit my profile. Wishing you a fantastic day filled with happy coding and successful endeavors! 👩‍💻</h2>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/argha7417/argha7417/output/github-contribution-grid-snake.svg)
+
+generated with _[Platane/snk](https://github.com/Platane/snk)_
