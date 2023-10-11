@@ -82,12 +82,30 @@
 <p align="left">I'm ARGHA GHOSH from Kolkata<br><br>- 🔭 I’m working as MERN stack web developer<br>- 📚 I'm currently learning Machine Learning 🦾<br>- ⚡ In my free time I love to explore different technologies</p>
 
 ###
-
+**My Github Stats:**
+<br>
+<br>
 <div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=argha7417&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=DDC846&currStreakNum=DDDDDD" alt="streak image" width=49% height=100%/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=argha7417&show_icons=true&count_private=true&theme=react"  width=49% height=100%/>
+  
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuriyaaVijay&theme=react&layout=compact" width="400px" alt="Language stats image"/> -->
+
+<hr>
+<br>
+<!-- <h3>Productivity Stats: </h3> -->
+<table>
+  <tr>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=argha7417&theme=blueberry"  display=block width=100% height=auto  alt="1" >
+
+</table>
+ <hr>
+ <Br>
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=argha7417&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=argha7417&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=argha7417&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+</div> -->
 
 ###
 <h3>📛  Badges :</h3>
