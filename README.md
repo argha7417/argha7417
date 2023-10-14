@@ -82,7 +82,7 @@
 <p align="left">I'm ARGHA GHOSH from Kolkata<br><br>- 🔭 I’m working as MERN stack web developer<br>- 📚 I'm currently learning Machine Learning 🦾<br>- ⚡ In my free time I love to explore different technologies</p>
 
 ###
-**My Github Stats:**
+**📈 My Github Stats:**
 <br>
 <br>
 <div align="center">
