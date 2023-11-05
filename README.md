@@ -72,9 +72,9 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/argha7417/argha7417/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/argha7417/argha7417/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/argha7417/argha7417/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArghaGhosh-01/ArghaGhosh-01/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArghaGhosh-01/ArghaGhosh-01/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArghaGhosh-01/ArghaGhosh-01/output/github-contribution-grid-snake.svg">
 </picture>
 
 <h3 align="left">👩‍💻  About Me :</h3>
@@ -88,8 +88,8 @@
 <br>
 <br>
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=argha7417&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=DDC846&currStreakNum=DDDDDD" alt="streak image" width=49% height=100%/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=argha7417&show_icons=true&count_private=true&theme=react"  width=49% height=100%/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ArghaGhosh-01&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=DDC846&currStreakNum=DDDDDD" alt="streak image" width=49% height=100%/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArghaGhosh-01&show_icons=true&count_private=true&theme=react"  width=49% height=100%/>
   
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuriyaaVijay&theme=react&layout=compact" width="400px" alt="Language stats image"/> -->
 
