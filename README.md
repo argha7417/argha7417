@@ -98,7 +98,7 @@
 <!-- <h3>Productivity Stats: </h3> -->
 <table>
   <tr>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=argha7417&theme=blueberry"  display=block width=100% height=auto  alt="1" >
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArghaGhosh-01&theme=blueberry"  display=block width=100% height=auto  alt="1" >
 
 </table>
  <hr>
